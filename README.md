@@ -6,7 +6,7 @@
 
 # PRODUCTS PROJECT
 
-## FRONTEND PRACTICE PROJECT NO: 20
+## FRONTEND PRACTICE PROJECT NO: 21
 
 1. I used Javascript, Jquery, HTML, CSS to practice my skills.
 
